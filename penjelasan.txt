@@ -13,3 +13,5 @@ METHOD
 CUNSTRUCTOR
 = sebuah method yang sepesial (kusus) yang ada di dilam celass ,
 method ini yang otomatis di jalankan saat sebuah objec di intancesiasi
+
+OBJECTYPE
