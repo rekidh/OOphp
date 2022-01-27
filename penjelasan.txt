@@ -1,0 +1,15 @@
+
+
+PROPERTY
+- mempersentasikan data ? keadaan dari sebuah objec
+-variabel yang ada di dalam objec (member variable)
+- sama seperti variabel di PHP, ditambah dengan visibiliti di depan nya
+
+METHOD 
+-merepresentasikan perilaku atau behevior
+- adalah function di dalam objec
+- sama seperti function di dalam PHP , namun di tambah dengan visibiliti di depan nya
+
+CUNSTRUCTOR
+= sebuah method yang sepesial (kusus) yang ada di dilam celass ,
+method ini yang otomatis di jalankan saat sebuah objec di intancesiasi
