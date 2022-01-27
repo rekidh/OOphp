@@ -33,3 +33,4 @@ echo "<br>";
 echo $komik2->getLabel();
 echo "<br>";
 echo $produk->getLabel();
+echo " komit test";
