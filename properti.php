@@ -44,3 +44,5 @@ $komik2->penulis = "sashomi";
 $komik2->harga = 35000;
 
 echo "Komik :" . $komik2->namaComik();
+
+var_dump($komik, $komik2, $produk, $produk2);
